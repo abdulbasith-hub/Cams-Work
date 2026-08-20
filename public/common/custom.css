@@ -1,0 +1,127 @@
+.hide_this {
+    display: none;
+}
+
+.error {
+    color: red;
+    font-size: 0.875em;
+}
+
+select.error {
+    color: initial; /* Use default text color */
+    /* border: 2px solid red;   */
+    /* Red border to indicate error */
+}
+
+.required:after {
+    content: " *";
+    color: red;
+}
+
+::placeholder {
+    color: #bfbfc8 !important;
+}
+
+.lable_size {
+    font-size: 15px;
+}
+.card_header_color {
+    background: #3782ce;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: arial, sans-serif, verdana;
+    padding: 3px;
+}
+.card_border {
+    border-color: #3782ce !important;
+}
+.text_redcolour {
+    color: #ff0000;
+    font-size: 80% !important;
+}
+
+.datatables-basic td,
+.datatables-basic th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-size: 13px;
+}
+
+.datatables-basic tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+.datatables-basic tr:hover {
+    background-color: #ddd;
+}
+
+.datatables-basic th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #6b6b6c;
+    color: white;
+}
+.button_save,
+.button_save:hover {
+    background-color: #b71362;
+    color: white;
+    font-size: 12px;
+}
+
+.button_finalise,
+.button_finalise:hover {
+    background-color: #14761d;
+    color: white;
+    font-size: 12px;
+}
+
+.forward_icon {
+    padding: 6px;
+    color: white;
+    cursor: pointer;
+    background: #1e3d5d;
+    border-radius: 10%;
+}
+
+.editicon {
+    padding: 6px;
+    color: white;
+    cursor: pointer;
+    background: #1e3d5d;
+    border-radius: 10%;
+}
+
+.updatebutton {
+    background: #0262af;
+    color: white;
+}
+
+.cursor_pointer {
+    cursor: pointer;
+}
+
+.cursor_default {
+    cursor: default;
+}
+.callforrecords_th {
+    background-color: #eaeff4 !important;
+    color: black !important;
+    padding: 10px !important;
+}
+
+.holiday-red {
+    color: #ff0000 !important;
+    /* Red text */
+    border-radius: 50%;
+    /* Optional: Makes the date look like a circle */
+}
+
+.day:not(.disabled)
+{
+    color: #5A6A85 !important;
+    font-weight:500 !important;
+
+}

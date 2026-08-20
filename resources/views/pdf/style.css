@@ -1,0 +1,92 @@
+body {
+        font-family: nototamil;
+        font-size: 12pt;
+        margin: 0;
+        color: #000;
+        text-align: justify;
+    }
+    .header {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .header h1 {
+        font-size: {{deptsize}}pt;
+        margin: 10px 0;
+    }
+    .header h2 {
+        font-size: 20pt;
+        margin: 5px 0;
+    }
+    .header h3 {
+        font-size: 18pt;
+        margin: 5px 0;
+        font-style: italic;
+    }
+    .header img {
+        margin: 10px auto;
+        display: block;
+        width: 100px;
+        height: 100px;
+    }
+
+    img {
+        width: 250px !important;
+        height: 250px !important;
+    }
+
+    body
+    {
+        font-family: Times New Roman;
+        font-size: 13pt;
+        line-height: 1.6;
+        margin: 0;
+        padding: 20mm;
+        color: #000;
+    }
+     
+    h1, h2, h3 {
+        text-align: center;
+        color: #333;
+    }
+    
+    .section-header {
+        text-align: center;
+        margin-bottom: 15px;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 5px;
+        font-size: 16pt;
+        font-weight: bold;
+    }
+    .section-content {
+        margin-top: 15px;
+    }
+                                
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+    }
+    table, th, td {
+        border: 1px solid #999;
+    }
+     
+    th, td {
+        padding: 13px;
+        text-align: left;
+        vertical-align: top;
+    }
+                                
+    .letter-footer {
+        margin-top: 40px;
+        font-size: 10pt;
+        text-align: right;
+    }
+    
+    .signature {
+        margin-top: 60px;
+    }
+                                
+    .page-break {                                   
+        page-break-before: always;
+        padding:10px;
+    }

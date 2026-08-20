@@ -1,0 +1,145 @@
+
+
+formatcontroller.php
+---New methods
+private function getMergeablePdfPaths(array $inputPaths): array
+{
+    $validPaths = [];
+
+    foreach ($inputPaths as $path) {
+        if (!is_string($path) || !File::exists($path)) {
+            \Log::warning('Skipping missing PDF attachment before merge.', [
+                'path' => $path,
+            ]);
+            continue;
+        }
+
+        if (!$this->isMergeablePdf($path)) {
+            continue;
+        }
+
+        $validPaths[] = $path;
+    }
+
+    return $validPaths;
+}
+
+private function isMergeablePdf(string $path): bool
+{
+    clearstatcache(true, $path);
+
+    if (!File::exists($path) || filesize($path) === 0) {
+        \Log::warning('Skipping empty PDF attachment before merge.', [
+            'path' => $path,
+        ]);
+        return false;
+    }
+
+    try {
+        $fpdi = new Fpdi();
+        $fpdi->setSourceFile($path);
+
+        return true;
+    } catch (\Throwable $exception) {
+        \Log::warning('Skipping unreadable PDF attachment before merge.', [
+            'path' => $path,
+            'error' => $exception->getMessage(),
+        ]);
+        return false;
+    }
+}
+
+command and replace this methods
+
+private function mergePdfFilesWithPdfcpu(
+    array $inputPaths,
+    string $outputPath,
+    string $profile = 'compressed'
+): bool
+{
+    $pdfcpu = $this->getPdfcpuBinary();
+    if ($pdfcpu === null) {
+        throw new \RuntimeException('pdfcpu executable not found. Configure PDFCPU_PATH or install pdfcpu.');
+    }
+
+    $validPaths = $this->getMergeablePdfPaths($inputPaths);
+
+    if ($validPaths === []) {
+        return false;
+    }
+
+    return $this->runPdfcpuMerge(
+        $pdfcpu,
+        $validPaths,
+        $outputPath,
+        $profile
+    );
+}
+
+private function runPdfcpuMerge(
+    string $pdfcpu,
+    array $inputPaths,
+    string $outputPath,
+    string $profile = 'compressed'
+): bool
+{
+    $tempRoot = sys_get_temp_dir();
+    $configRoot = $tempRoot . DIRECTORY_SEPARATOR . '.config';
+    $pdfcpuConfigDir = $configRoot . DIRECTORY_SEPARATOR . 'pdfcpu';
+
+    putenv('HOME=' . $tempRoot);
+    putenv('XDG_CONFIG_HOME=' . $configRoot);
+
+    if (!is_dir($pdfcpuConfigDir)) {
+        @mkdir($pdfcpuConfigDir, 0777, true);
+    }
+
+    $command =
+        escapeshellarg($pdfcpu)
+        . ' merge '
+        . escapeshellarg($outputPath)
+        . ' '
+        . implode(' ', array_map('escapeshellarg', $inputPaths))
+        . ' 2>&1';
+
+    exec($command, $output, $returnCode);
+
+    \Log::info('PDFCPU Merge', [
+        'command' => $command,
+        'returnCode' => $returnCode,
+        'output' => $output
+    ]);
+
+    return $returnCode === 0;
+}
+
+   private function getPdfcpuBinary(): ?string
+{
+    $candidates = array_filter([
+        env('PDFCPU_PATH'),
+        env('PDFCPU_BIN'),
+        '/usr/bin/pdfcpu',
+        '/usr/local/bin/pdfcpu',
+        '/bin/pdfcpu',
+        'pdfcpu',
+    ]);
+
+    $nullDevice = strtoupper(substr(PHP_OS, 0, 3)) === 'WIN'
+        ? 'NUL'
+        : '/dev/null';
+
+    foreach ($candidates as $candidate) {
+
+        $command =
+            escapeshellarg($candidate)
+            . " version 2>$nullDevice";
+
+        exec($command, $output, $resultCode);
+
+        if ($resultCode === 0) {
+            return $candidate;
+        }
+    }
+
+    return null;
+}

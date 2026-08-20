@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <style>
+            body{
+                font-weight:300;
+            }
+            h4{
+                text-align:center;
+                text-indent: 4em; /* Adds an indent to the first line */
+                font-weight:300;
+            }
+
+            table {
+                border-collapse: collapse;  /* Ensures single line borders for the table */
+                width: 100%;
+            }
+            th, td {
+                border: 1px solid black;  /* Single line border for table cells */
+                padding: 8px;
+                text-align: left;
+            }
+            th {
+                background-color: #f2f2f2;
+            }
+            
+            .fillupfield
+            {
+                width:300px;
+            }
+
+            .englishcontent
+            {
+                font-family:arial !important;
+            }
+
+            .lang
+            {
+                font-family: '{{ fontFamily }}';
+
+            }
+
+        </style>
+    </head>
+    <body>
+        <div>
+         <h4>{{heading_title}}</h4>
+         <table class="workallocation_table" data-type="type1">
+            <!--<tr>
+                <th>S.No</th>
+                <th>Team Member</th>
+                <th>Allocated Work</th>
+                <th>Date</th>
+                <th>Auditor's Signature</th>
+             </tr>-->
+             <tr>
+                <td>S.No</td>
+                <td>Team Member</td>
+                <td>Allocated Work</td>
+                <td>Date</td>
+                <td>Auditor's Signature</td>
+             </tr>
+         </table>
+        </div>
+    </body>
+</html>

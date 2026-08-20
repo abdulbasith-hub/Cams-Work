@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in `cat  files_rm.txt`
+do 
+	echo $i
+	rm $i
+done

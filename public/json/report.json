@@ -1,0 +1,54 @@
+{
+    "en":{
+  "coverletter_en": "<html>\n    <head>\n        <style>\n            .content1 {\n                text-indent: 2em;\n                line-height: 2.0;\n            }\n        </style>\n    </head>\n    <body>\n        <h4>To,<br>[auditeeInstDetails]</h4>\n        <h4 style=\"text-align:center;\">Subject: Audit Report for the [yeartype] [audityear][annadhanamyearcontent]</h4>\n\n        <h4>1. Introduction</h4>\n        <p>This report is issued in connection with the annual accounts of <b>[AuditeeInstitution]</b> for the [yeartype] <b>[audityear][annadhanamyearcontent]</b>.<br>\n        We have examined the accompanying financial statements, which include:<br>\n        <ul>\n            <li>The Annual Accounts Statement for the financial years ended [endateofaudit] as well as Records/Registers and work plan as per CAMS.</li>\n        </ul>\n        </p>\n\n        <h4>2. Management's Responsibility</h4>\n        <p>The Management of the <b>[AuditeeInstitution]</b> is solely responsible for the preparation and presentation of the Statement. This responsibility includes:<br>\n        <ul>\n            <li>Maintaining all necessary accounting records and supporting documents.</li>\n            <li>Designing, implementing, and maintaining internal controls relevant to the accurate preparation of the Statement.</li>\n            <li>Ensuring that the information provided to the auditors complies fully with the statutory requirements of the relevant Act, Rules, Manuals and Govt Orders prescribed in this regard.</li>\n            <li>Making accounting estimates that are reasonable in the circumstances.</li>\n        </ul>\n        </p>\n\n        <h4>3. Auditor's Responsibility</h4>\n        <p>As required by the relevant Rules and Manuals, our responsibility is to conduct an independent examination and provide reasonable assurance on the following matters:<br>\n        <ul>\n            <li>Whether the annual accounts are maintained in the prescribed manner so as to give a true and fair view of the affairs of the institution audited.</li>\n            <li>Whether the Assets and Liability figures arrived are true and fair.</li>\n        </ul>\n        </p>\n\n        <p class=\"content1\">We audited the accounts of the auditee institution in accordance with the source of authority of audit as well as the prescribed manuals and standards and in compliance with the orders and circulars issued by the Government / Director General Audit.</p>\n\n        <h4>5. Opinion</h4>\n        <p>[certificateopinion]</p>\n\n        <h4>6. Intended Use</h4>\n        <p>This certificate is issued solely for the use of the auditee institution concerned for the specific purpose as per the source of authority of audit. The auditee institution shall take necessary remedial action at the earliest to rectify the defects pointed out, if any, in this report and shall place the audit report before the Board / Council / Governing Body etc., and also file necessary action taken report on this audit report with the Head of Department / Government / Legislative Assembly as per the Act and/or Rules concerned.</p>\n\n        <p>[TeamDet]</p>\n        <p>Date: [Date of Signing]</p>\n    </body>\n</html>",
+   "audit_report_title": "Audit report of the Annual Account of ",
+    "name_of_auditors": "1) Name of the Auditors",
+    "period_of_audit": "2) Period of Audit Conducted",
+    "officials_of_institution": "3) Officials of the Institution:",
+    "s_no" : "S.No",
+    "name_desig" : "Name & Designation",
+    "service_period" : "Service Period",
+    "authority_of_audit": "4) AUTHORITY OF AUDIT",
+    "genesis_title": "5) A Brief introduction about Auditee Institution",
+    "accounts_section_title": "6) Accounts and general informations",
+    "accounts_intro": "Accounts Maintained and its details and Reconciliation",
+    "accounts_para": "The institution maintains the following bank accounts for various operational and scheme-related purposes. The account details along with the status of reconciliation up to the audit period are furnished below",
+    "filing_status_title": "&) Filing Status",
+    "tds_filed": "TDS Filed Details",
+    "issues_in_it": "Issues in IT filing",
+    "gst_return": "GST Return filed details(GSTR-3B)",
+    "lwf_title": "Labour welfare fund(LWF)",
+    "legal_compliances": "Legal compliances",
+    "financial_review": "Financial Review",
+    "no_tds" : "TDS Filing Status Not Available",
+    "annadhanam_year_label":" and Annadhanam  Year "
+
+ },
+  "ta":{
+  "coverletter_ta": "<html>\n    <head>\n        <style>\n            .content1 {\n                text-indent: 2em;\n                line-height: 2.0;\n            }\n        </style>\n    </head>\n    <body>\n        <h4>பெறுநர்,<br>[auditeeInstDetails]</h4>\n        <h4 style=\"text-align:center;\">பொருள்: [yeartype] [audityear] [annadhanamyearcontent] நிதி ஆய்வுப் பகுப்பு அறிக்கை</h4>\n\n        <h4>1. அறிமுகம்</h4>\n        <p>இந்த அறிக்கை <b>[AuditeeInstitution]</b> நிறுவனத்தின் [yeartype] <b>[audityear] [annadhanamyearcontent]</b> ஆண்டுக்கான வருடாந்த நிதி கணக்குகளுக்கானது.<br>\n        நாங்கள் இணைக்கப்பட்ட நிதி அறிக்கைகளை பரிசீலித்து உள்ளோம், அதில்:<br>\n        <ul>\n            <li>முடிவடைந்த நிதியாண்டுகளுக்கான வருடாந்த நிதி அறிக்கைகள் மற்றும் CAMS படி பதிவுகள்/பதிவுகள் மற்றும் வேலைத் திட்டம் உள்ளடக்கமாக உள்ளன.</li>\n        </ul>\n        </p>\n\n        <h4>2. மேலாண்மையின் பொறுப்பு</h4>\n        <p><b>[AuditeeInstitution]</b> நிறுவனத்தின் மேலாண்மை இந்த அறிக்கையை தயாரித்து சமர்ப்பிப்பதில் முழுமையான பொறுப்பேற்றுள்ளனர். இந்த பொறுப்புகளில்:<br>\n        <ul>\n            <li>அனைத்து தேவையான கணக்குப் பதிவுகளும் ஆதரவு ஆவணங்களும் பராமரிக்கப்படுதல்.</li>\n            <li>அறிக்கையின் துல்லியமான தயாரிப்புக்கான தொடர்புடைய உள்கட்டுப்பாடுகள் வடிவமைத்தல், செயல்படுத்தல் மற்றும் பராமரித்தல்.</li>\n            <li>ஆடிட்டர்களுக்கு வழங்கப்படும் தகவல்கள் தொடர்புடைய சட்ட விதிகள், விதிமுறைகள், கையேடுகள் மற்றும் அரசு ஆணைகள் முழுமையாக இணங்கப்படுவதை உறுதிப்படுத்துதல்.</li>\n            <li>சுற்றுச்சூழல் ஏற்படும் சூழ்நிலைகளுக்கு ஏற்ப கணக்குப் மதிப்பீடுகளை செய்வது.</li>\n        </ul>\n        </p>\n\n        <h4>3. ஆய்வாளர்களின் பொறுப்பு</h4>\n        <p>தொடர்புடைய விதிகள் மற்றும் கையேடுகளின் படி, நமது பொறுப்பு பின்வரும் விஷயங்களில் சுதந்திரமான பரிசோதனையை மேற்கொண்டு நியாயமான நம்பிக்கை வழங்குதல்:<br>\n        <ul>\n            <li>ஆண்டாந்த நிதி கணக்குகள் நிறுவனத்தின் நிலவரத்தை உண்மையாகவும் நியாயமாகவும் காட்டும் முறையில் பராமரிக்கப்பட்டுள்ளதா என்பதைக் கண்டறிதல்.</li>\n            <li>சொத்துக்கள் மற்றும் கடன்களின் மதிப்புகள் உண்மையாகவும் நியாயமாகவும் இருக்கின்றனவா என்பதைக் கண்டறிதல்.</li>\n        </ul>\n        </p>\n\n        <p class=\"content1\">நாங்கள் அதிகார ஆதாரம் மற்றும் விதிமுறைகள் மற்றும் நிலையான கையேடுகள் படி, அரசாங்கம் / கணக்காய்வுத் துறை இயக்குநரால் வெளியிடப்பட்ட ஆணைகள் மற்றும் சுற்றறிக்கைகளுடன் இணங்கியவாறு, ஆய்வை மேற்கொண்டோம்.</p>\n\n        <h4>5. கருத்து</h4>\n        <p>[certificateopinion]</p>\n\n        <h4>6. நோக்கமிடப்பட்ட பயன்பாடு</h4>\n        <p>இந்த சான்றிதழ் சார்ந்த நிறுவனம் மட்டுமே குறிப்பிட்ட நோக்கத்திற்காக அதிகார ஆதாரத்தின் படி வழங்கப்படுகிறது. அறிக்கையில் குறிப்பிடப்பட்ட பிழைகளை சரிசெய்ய நிறுவனத்தால் விரைவில் தேவையான நடவடிக்கை எடுக்கப்பட வேண்டும். மேலும், இந்த ஆய்வு அறிக்கையை பலகை/அரசாணை/ஆணையம் முன் கொண்டு வைக்கவும், தொடர்புடைய துறை/அரசு/சட்டமன்றத்துக்கு தேவையான நடவடிக்கை அறிக்கை சமர்ப்பிக்கவும் நிறுவனம் உறுதியாக செயல்பட வேண்டும்.</p>\n\n        <p>[TeamDet]</p>\n        <p>தேதி: [Date of Signing]</p>\n    </body>\n</html>",
+
+ "audit_report_title": "ஆண்டு கணக்கின் தணிக்கை அறிக்கை",
+    "name_of_auditors": "1) ஆய்வாளர்களின் பெயர்கள்",
+    "period_of_audit": "2) ஆய்வு நடைபெற்ற கால அளவு",
+    "officials_of_institution": "3) நிறுவனத்தின் அலுவலர்கள்",
+    "s_no" : "வ.எண்",
+     "name_desig" : "பெயர் & பதவி",
+    "service_period" : "சேவை காலம்",
+    "authority_of_audit": "4) ஆய்வின் அதிகார ஆதாரம்",
+    "genesis_title": "5) நிறுவனத்தின் சுருக்கமான அறிமுகம்",
+    "accounts_section_title": "6) கணக்குகள் மற்றும் பொது தகவல்கள்",
+    "accounts_intro": "பராமரிக்கப்பட்ட கணக்குகள் மற்றும் சரிபார்ப்பின் விவரங்கள்",
+    "accounts_para": "இந்த நிறுவனம் பல்வேறு செயல்பாட்டு மற்றும் திட்டம் தொடர்பான நோக்கங்களுக்காக பின்வரும் வங்கிக் கணக்குகளைப் பராமரிக்கிறது. கணக்கு விவரங்கள் மற்றும் தணிக்கை காலம் வரையிலான சமரச நிலை கீழே கொடுக்கப்பட்டுள்ளன.",
+    "filing_status_title": "7) கோப்புப்பதிவின் நிலை",
+    "tds_filed": "TDS தாக்கல் விவரங்கள்",
+    "issues_in_it": "IT தாக்கலில் உள்ள சிக்கல்கள்",
+    "gst_return": "GST தாக்கல் விவரங்கள்(GSTR-3B)",
+    "lwf_title": "தொழிலாளர் நல நிதி (LWF)",
+    "legal_compliances": "சட்டக்கடப்பாடுகள்",
+    "financial_review": "நிதி விமர்சனம்",
+     "no_tds" : "TDS தாக்கல் நிலை கிடைக்கவில்லை",
+     "annadhanam_year_label":" மற்றும் அன்னதான ஆண்டு "
+
+
+}
+}

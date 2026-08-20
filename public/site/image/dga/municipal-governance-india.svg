@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-labelledby="title desc">
+  <title id="title">Municipal governance in India</title>
+  <desc id="desc">Diagram showing Government, State Government, District and urban local bodies including Municipal Corporation, Municipality and Town Panchayat.</desc>
+  <rect width="680" height="420" fill="#f8fbff"/>
+  <rect x="18" y="18" width="644" height="384" rx="18" fill="#ffffff" stroke="#cfdced" stroke-width="2"/>
+  <text x="340" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#073b63">Municipal Governance in India</text>
+  <g font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+    <rect x="230" y="82" width="220" height="42" rx="6" fill="#0b5fa5"/>
+    <text x="340" y="108" fill="#ffffff">Government of India</text>
+    <line x1="340" y1="124" x2="340" y2="152" stroke="#334155" stroke-width="2"/>
+    <polygon points="335,152 345,152 340,160" fill="#334155"/>
+    <rect x="230" y="160" width="220" height="42" rx="6" fill="#138808"/>
+    <text x="340" y="186" fill="#ffffff">State Government</text>
+    <line x1="340" y1="202" x2="340" y2="230" stroke="#334155" stroke-width="2"/>
+    <polygon points="335,230 345,230 340,238" fill="#334155"/>
+    <rect x="250" y="238" width="180" height="42" rx="6" fill="#f58220"/>
+    <text x="340" y="264" fill="#ffffff">District</text>
+    <line x1="340" y1="280" x2="340" y2="306" stroke="#334155" stroke-width="2"/>
+    <line x1="116" y1="306" x2="564" y2="306" stroke="#334155" stroke-width="2"/>
+    <line x1="116" y1="306" x2="116" y2="324" stroke="#334155" stroke-width="2"/>
+    <line x1="340" y1="306" x2="340" y2="324" stroke="#334155" stroke-width="2"/>
+    <line x1="564" y1="306" x2="564" y2="324" stroke="#334155" stroke-width="2"/>
+    <rect x="42" y="324" width="148" height="54" rx="7" fill="#e8f2ff" stroke="#0b5fa5" stroke-width="2"/>
+    <text x="116" y="346" fill="#073b63">Municipal</text>
+    <text x="116" y="365" fill="#073b63">Corporation</text>
+    <rect x="266" y="324" width="148" height="54" rx="7" fill="#edf8ef" stroke="#138808" stroke-width="2"/>
+    <text x="340" y="346" fill="#164b24">Municipality</text>
+    <text x="340" y="365" fill="#164b24">Nagar Palika</text>
+    <rect x="490" y="324" width="148" height="54" rx="7" fill="#fff4e8" stroke="#f58220" stroke-width="2"/>
+    <text x="564" y="346" fill="#6f3c00">Town</text>
+    <text x="564" y="365" fill="#6f3c00">Panchayat</text>
+  </g>
+  <g fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
+    <text x="116" y="395">Large urban areas</text>
+    <text x="340" y="395">Urban local bodies</text>
+    <text x="564" y="395">Transitional areas</text>
+  </g>
+</svg>

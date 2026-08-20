@@ -1,0 +1,442 @@
+Chapter4:StateGovernmentAuditDepartment
+Establishment
+In the year 1945, the Government appointed the Examiner of Local Fund Accounts as the Chief Auditor, State Trading Schemes, entrusting the office with the responsibility of conducting internal departmental audit of State-run trading schemes administered by the Government.(Paragraph 4.1.1)
+EvolutionintoaSeparateDepartment
+AstheresponsibilitiesoftheExaminerofLocalFundAccountsincreasedsubstantiallywiththeadditional function of Chief Auditor, State Trading Schemes, a separate department for the audit of State Trading SchemeswasformedunderG.O.Ms.No.449,Finance,dated03.05.1969,headedbytheChiefAuditor,State Trading Schemes.(Paragraph 4.2.1)
+Subsequently, the Public Accounts Committee endorsed the recommendation of the Comptroller and AuditorGeneralofIndiaforestablishingastrongandindependentinternalauditsystemundertheFinance Department.Inpursuancethereof,theGovernmentrealignedthefunctionsoftheDepartmentofLocalFund Audit and the Chief Auditor, State Trading Schemes. As per G.O.Ms.No.598, Finance (Local Fund) Department, dated 03.08.1992, the Chief Auditor, State Trading Schemes was redesignated as the Chief Internal Auditor and Chief Auditor of Statutory Boards, and the department was renamed as the Internal Audit and Statutory Boards Audit Department as per G.O.Ms.No.848, Finance (LF) Department, dated 09.11.1995.(Paragraph 4.2.2)
+Following an announcement made by the Deputy Chief Minister during the discussion on Demand for Grants for 2019–2020, the duties and responsibilities of the department were extended and realigned to cover Statutory and Non-Statutory Boards, Government Departments, and Government-aided Institutions. The department was consequently renamed as the State Government Audit Department as per G.O.Ms.No.264, Finance (LF) Department, dated 16.08.2019. (Paragraph 4.2.3)
+The organizational structure of the audit system evolved over time through several key developments. Initially, the Local Fund Audit Department and the Chief Auditor for State Trading were established in 1969. Later, in 1995, the Director of Local Fund Audit became the Head of Department (HOD). Parallelly, the Internal Audit and Statutory Boards Audit Department was formed, headed by the Chief Internal Auditor and Chief Auditor of Statutory Boards, a role formalized in 1992 and designated as HOD in 1995. Eventually, these functions were consolidated under the State Government Audit Department in 2019, with the Director serving as the Head of Department.
+Acts and rules
+The State Government Audit Department derives its statutory authority from the following legislations and departmental manuals:
+TamilNaduLocalFundAuditAct,2014
+TamilNaduLocalFundAuditRules,2016
+TheInternalAuditandStatutoryAuditDepartmentManual—VolumeIII-A
+TheInternalAuditandStatutoryAuditDepartmentManual—VolumeIII-B
+TheTamilNaduLocalFundAuditDepartmentManual—VolumeII(Correctedupto 31.12.2008)
+Functionsofthe Department
+TheStateGovernmentAuditDepartmentisresponsibleforconductingstatutoryandinternalauditofawide spectrum of institutions including Statutory Boards, Non-Statutory Boards, Government Departments, and Government-aided Institutions. Audit reports are issued within stipulated time frames, and paragraphs relating to serious irregularities are brought to the notice of the Government and the Public Undertakings Committee (PUC) of the Tamil Nadu Legislature.(Paragraph 4.3.1)
+StatutoryAudit—InstitutionsCovered
+Thefollowinginstitutionsarecoveredunderstatutoryauditbythedepartment:
+TamilNaduKhadiandVillageIndustriesBoard
+TamilNaduUrbanHabitatDevelopment Board
+TamilNaduHousing Board
+TamilNaduWakf Board
+TamilNaduLabourWelfareBoard
+ChennaiMetropolitanDevelopmentAuthority
+ChennaiMetropolitanWaterSupplyandSewerageBoard(entrustedthroughexecutiveorders)
+TamilNaduWaterSupplyandDrainageBoard(entrustedthroughexecutive orders)
+Organizational Structure
+Auditable Institutions
+STATEGOVERNMENTAUDITDEPARTMENT-AUDITABLE
+INSTITUTIONSLIST
+S.NO
+CATEGORYOFINSTITUTION
+NO OF INSTITUTION
+1
+Chennai Metropolitan  Development Authority
+1
+2
+Chennai Metropolitian Water Supply and Sewerage Board
+1
+3
+Tamil Nadu Housing Board
+27
+4
+Tamil Nadu Urban Habitat Development Board
+22
+5
+Tamil Nadu Khadi & Village Industries Board
+24
+6
+Tamil Nadu Text Book & Educational Service Corporation
+24
+7
+Administrative General (AG)
+1
+8
+Official Trustee (OT)
+1
+9
+Official Assignee (OA)
+1
+10
+Official Liquidator (OL)
+1
+11
+Suitor's Fund (SF)
+1
+12
+Civil Court Deposit (CCD)
+1
+13
+Tamilnadu Water Supply & Drinage Board Institutions
+124
+14
+Agriculture Institutions
+1146
+15
+Government Institutions
+167
+16
+Government Aided Institutions
+33
+Government Aided  Arts & Science Colleges
+162
+17
+Government Aided Engineering and Polytechnic Colleges
+35
+18
+Wakf Institutions
+2035
+19
+Sarvodaya Sangam
+70
+20
+Election Audit Institutions
+307
+21
+P.T.MGR Nutritious Noon Meal Scheme
+572
+22
+Integrated Child Development Scheme
+479
+23
+Adi Dravidar Welfare Hostels
+1208
+24
+Tribal Welfare Hostels
+49
+TOTAL
+6492
+Internal Audit in Government Department List
+G.O Ms.NO 598, Finance (local Fund) department, dated 3/08/1992 and G.O Ms.NO 736, Finance (local Fund) department , dated 19/09/1995 have authorised the state government audit department to review the following internal audit functions in government departments and oversee audit through the concerned departments
+S.No
+Internal Audit in Government Department list
+Directorate of Technical Education
+Police department
+Department of Agriculture - Farmers Welfare
+Directorate of Medical and Rural Health Services
+Department of Agriculture Engineering
+Directorate of Public Health and Preventive Medicine
+Commissionerate of Social Welfare,
+Department Medical Education and research
+Department of Prisons and Correctional Services
+Department of Transport
+Department of Geology and MiningGuindy
+Department of revenue Administration and Disaster Management
+Department of Forest
+Department of Collegiate Education
+Rehabilitation And  Welfare of Non resident Tamils
+BC, MBC & Minorities Welfare Department
+Fire and Rescue Service
+Adi Dravidar and Tribal Welfare Department
+Stationery and Printing Department
+Achievements
+Audit
+IncompliancewiththeannouncementmadebytheMinisterforFinanceandHumanResourcesDevelopment in the 2021–2022 Budget Speech, the post of Director General of Audit was created to bring all audit departments under the control of the Finance Department, thereby ensuring coordinated oversight of audit functions.(Paragraph 4.4.1)
+A Special Audit on field verification and genuineness of income certificates submitted for BC/MBC/MW/SC/ST scholarships and First Graduate certificates was conducted and the audit report was submitted to the Government.(Paragraph 4.4.2)
+A Special Audit on the verification of Receipts and Expenditure relating to COVID-19 in five selected districts was conducted and the report was submitted to the Government.(Paragraph 4.4.3)
+CapacityBuildingforAuditors
+Training programmes on General Courses, IT-related courses, and domain-based courses are conducted periodically to improve audit quality.(Paragraph 4.4.4)
+The e-Office system has been fully implemented (100%) in the State Government Audit Department to enable paperless transactions, improve file movement efficiency, and reduce delays in decision-making. (Paragraph 4.4.5)
+Timeanalysisandcategorisationofauditobjectionsinallauditeeinstitutionshavebeencompleted.Thegist and number of pending audit paras, institution-wise, have been communicated to the concerned auditee institutions through e-mail, ensuring transparency.(Paragraph 4.4.6)
+The system for approving statutory boards' audit reports has been revised — approval is now granted one level below, and issuance is carried out by the concerned Head of Office who conducted the audit, thereby avoiding delays.(Paragraph 4.4.7)
+AsumofapproximatelyRs.28.41croreshasbeencollectedasauditfeesduringtheperiodfrom07.05.2021 to 31.09.2025.(Paragraph 4.4.8)
+Government Order G.O.(Ms) No. 27, Finance (LF) Department, dated 04.02.2025, has been issued to constituteHighLevelCommittees(HLCs)—includingaStateLevelHighLevelCommitteeheadedbythe Finance Secretary and Departmental/Board Level High Level Committees — to facilitate the timely settlement of audit paras.(Paragraph 4.4.9)
+The Director General of Audit has instructed all auditors to strictly follow the Code of Ethics during the course of audit.(Paragraph 4.4.10)
+Contact Details
+STATE GOVERNMENT AUDIT DEPARTMENT(HeadOffice)
+Thiru.H. Abdullah Kaadhar
+Director of State Government Audit Department
+Ph:044 – 24360607
+Thiru.R.Pandiyan
+Joint Director of State Government Audit Department
+Ph: 044 – 24353506
+Tmt.D.Shanthi
+Deputy Directorof State Government Audit Department
+Ph: 044 – 24357606
+Thiru.R.Kothairaman
+Assistant Director of State Government Audit Department
+Ph : 044 – 24353506
+Thiru.S.Dilli
+Assistant Director of State Government Audit Department (Audit)
+Ph: 044 – 24353507
+Address:
+Directorate of State Government Audit Department,
+# 571, Anna Salai, 4th Floor, Perasiriyar K. Anbalagan Maligai, Veterinary Hospital Campus, Nandanam, Chennai – 600 035. Tamilnadu.
+Telephone Numbers : 044 - 24350605
+E-mail : cia.casbs@tn.gov.insgadho2019@gmail.com
+S.
+No
+Region/District
+Name (Thiru. / Tmt. / Selvi)
+Designat ion
+Address
+Phone Number
+Emailaddress
+1
+Chennai
+Thiru.S.Dilli
+Assistant Director
+O/o Director,State Government Audit Department,Perasiriyar Anbalagan Complex,4th Floor,Integrated Office Building For Finance Department, Nandanam,Chennai-35
+044-24353507
+sgadho2019@gmail.com
+3
+Chennai
+Thiru.M.Malaivelu
+Deputy Director
+O/o Deputy Director,Chennai Metropolitan Development Authority Audit,Thazhamuthu Natarajan Building,1,Gandhi-Irwin Road, Egmore,    Chennai-8
+044-28592201
+ddcmda@gmail.com
+4
+Chennai
+Thiru.C.Kumaravelu
+Deputy Director
+O/o Deputy Director,Tamilnadu Urban Habitat  Development Board Audit,1st Floor,Kamarajar Salai,Chennai-5
+044-28447515
+ddtnscbaudit@gmail.com
+5
+Chennai
+Tmt.K.Arulmozhi
+Deputy Director
+O/o Deputy Director,Tamilnadu Khadi and Village Industries Board Audit,4th floorKuralagam,       Chennai-108
+044-25342120
+ddkbaduit@gmail.com
+6
+Chennai
+Thiru.S.Senthil Kumar
+Deputy Director
+O/o Deputy Director,Tamilnadu Housing Board Audit,CMDA Complex, E&C Market Road, Koyambedu,     Chennai  600 107
+044-24350277
+tniahba@gmail.com
+7
+Chennai
+Tmt.N.Sankaripraba
+Deputy Director
+O/o Deputy Director,City Audit,New No-9,Old No.53,2nd Floor,Jeenis Road,Saidapet,           Chennai - 15
+044-25380746
+cityauditad@gmail.com
+8
+Kanchipuram
+Tmt.K.Thilagavathi
+Assistant Director
+Assistant Director, State Government Audit, 10/57, Sri Chandra Sekara Saraswathi Swamigal Street, Bangaru Amman Thottam, Ellappa Nagar, Kanchipuram 631 501
+044-27236554
+adiakpm178@gmail.com
+9
+vellore
+Thiru.R.Gopalakrishnan
+Assistant Director
+Assistant Director, State Government Audit, No.289, 13th Street, First FloorPhase II , Sathuvachari,Vellore – 632 009
+0416-2255170
+adinauditvellore@yahoo.com
+10
+Villupuram
+Thiru.T.Ilavarasan
+Assistant Director
+Assistant Director, State Government Audit, Door No.12, Krishna Nagar, (Doctfia illam) Ranganathan Road, Villupuram –2
+04146-221321
+adinternalvpm@gmail.com
+11
+Tiruvannamalai
+Thiru.R.Paranthaman
+Assistant Director
+Assistant Director, State Government Audit, P.N. 13, P.V.S.Nagar, Polur  Road,Tiruvannamalai          606 601
+04175-250956
+adinternaltpm@gmail.com
+12
+Thanjavur
+Thiru.P.A.Anand
+Assistant Director
+Assistant Director, State Government Audit,Old Collector Office Building,Court Road,Thanjavur – 613 001
+04362-279970
+adia.thanjavur@gmail.com
+13
+Cuddalore
+Thiru.V.Nedunjezhiyan
+Assistant Director
+Assistant Director, State Government Audit,No.38, First Floor, Second Street, , Subbarayulu Nagar, Cuddalore – 607 002
+04142-235360
+adiacuddalore30338@gmail.com
+14
+Nagapattinam
+Thiru.K.Sureshkumar
+Assistant Director
+Assistant Director, State Government Audit, Hall No.211, Second Floor,District Collector Office Complex,  Nagapattinam       611 003
+04365-248551
+adinsbanagai@gmail.com
+15
+Trichy
+Thiru.K.Seenivasan
+Assistant Director
+Assistant Director, State Government Audit,No.12,First floor, 2nd cross street,RMS Colony, Karumandapam,Trichy – 01
+0431-2423212
+adia_trichy@yahoo.in
+16
+Pudukottai
+Thiru.P.Srinivasan
+Assistant Director
+Assistant Director,State Government Audit, Lakshminivas,First floor,No.3068,East Raja Street, Pudukkottai 622 001
+04322-224550
+ad.internal.audit.pudukkottai@gmail.com
+17
+Erode
+Thiru.L.Manoharan
+Assistant Director
+Assistant Director, State Government Audit, No.18/386, E.M.M.Main road,Chennimalai Road,Railway diesel lothoset opposite,Erode – 638 001.
+0424-2273977
+erodeinternalaudit@gmail.com
+18
+Madurai
+Thiru.A.Ramesh
+Assistant Director
+Assistant Director, State Government Audit, No.6/1, Pankajam Colony 4th  cross  Street, (Opp. to Anna Chandramathi Marriage Hall)Madurai –625 009.
+0452-2311530
+internalauditmdu@gmail.com
+19
+Virudhunagar
+Thiru.P.Ramesh
+Assistant Director
+Assistant DirectorState Government Audit, No.19, Ground Floor,Nachi Street,Virudhunagar          626 001
+04562-267745
+internalauditvirudhunagar@yahoo.com
+20
+Dindigul
+Tmt.V.Umamaheshwari
+Assistant Director
+Assistant Director,State Government Audit, Door No.171/C1, Baby Illam, Siluvathur  Road, Balakrishnapuram post, Dindigul – 5
+0451-2421332
+adiadgl@gmail.com
+21
+Coimbatore
+Thiru.M.Srinivasan
+Assistant Director
+Assistant Director,State Government Audit, District Library Authority Building, 3rd Floor (Left Side) No.1232, Big Bazzar Street, Coimbatore 641 001
+0422-239199
+adinternalauditcbe@gmail.com
+22
+Sivagangai
+Tmt.K.Sathyabama
+Assistant Director
+Assistant Director,State Government Audit, Door No.43, ,R.M.K.R. Illam, Sasthri 1st StreetSivagangai – 630 561
+04575-244013
+adinternalsivagangai@gmail.com
+23
+Tirunelveli
+Thiru.Cylus Benjamin
+Assistant Director
+Assistant Director,State Government Audit, No.14, 2nd street, Perumalpuram Near Sumangali Kalyana Mandapam,Tirunelveli -627 007
+0462-2531209
+adinternaltnv@gmail.com
+24
+Tuticorin
+Tmt.K.Shanmugasundari
+Assistant Director
+Assistant Director,State Government Audit, 1, Melapeiryacotton Salai,Old Municipality Complex,                  Tuticorin – 628 001
+0461-2329641
+adinttuty@gmail.com
+25
+Nagercoil
+Thiru.P.Ponnusamy
+Assistant Director
+Assistant Director,State Government Audit, Tamizhmani commercial complex,No.38/1 – 331/2, Cape Road, Kottar, Nagercoil      629 002
+04652-240100
+adinauditngl@gmail.com
+26
+Salem
+Thiru.N.Ragasekar
+Assistant Director
+Assistant Director,State Government Audit, Salam Corporation Commissioner Office complex,Old Mayor Building, Opp.G.H.,          Salem  636 001
+0427-2253120
+adinternalaudit@gmail.com
+27
+Dharmapuri
+Thiru.P.S.Ilavenil
+Assistant Director
+Assistant Director,State Government Audit, Door No.4/545/1 –  First Floor, Railway Station Road, Dharmapuri  636 701
+04342-231301
+adinternaldpi@gmail.com
+28
+Karur
+Tmt.V.Rajalakshmi
+Assistant Director
+Assistant Director,State Government Audit, 7,First floor, Bharathidasan Nagar Main Road, Behind Government Arts College,Thanthoni Malai Backside,Karur – 639 007
+04324-248361
+interanlauditkarur@gmail.com
+29
+Ramanathapuram
+Thiru.K.Selvaboopathy
+Assistant Director
+Assistant Director,State Government Audit, Room No.31&32, Singaravelar Maligai 1st Floor,District Collector’s Officer (Old Campus)Ramanathapuram  623 503
+04567-231242
+inspectorrrmd@gmail.com
+30
+Tiruppur
+Tmt.S.Umamaheshwari
+Assistant Director
+Assistant Director,State Government Audit, Kumaran Shopping Complex,2nd Floor, Kumaran Salai,Tiruppur – 641 601
+0421-2237200
+internalaudit.tpr@gmail.com
+31
+Udhagamandalam
+Thiru.G.Ravishankar
+Inspector
+Inspectors Office,State Government Audit, Hall No.22,Block III,District Collector’s Additional Office Building ,Finger Post,Udhagamandalam – 643 006
+0423-2444254
+internalaudit2019ooty@gmail.com
+32
+Namakkal
+Thiru.G.Sathiyamoorthy
+Assistant Director
+Assistant Director,State Government Audit, No.4, Homeland Building, S.P.Pudur, North Street, Sandaipettai Puthoor, Namakkal – 637 001
+04286-222274
+internalauditnmkl@gmail.com
+33
+Krishnagiri
+Thiru.M.Ravichandran
+Assistant Director
+Assistant Director,State Government Audit, 1/2304-24, 1st Floor,3rd Cross Street, Rajaji nagarKrishnagiri       635002
+04343-226606
+inspector.intaudit.kgri@gmail.com
+34
+Ariyalur
+Thiru.V.A.Jagadeeswaran
+Assistant Director
+Assistant Director,State Government Audit, Combined Office Complex,Old Collector Office Building 2nd Floor, Jeyankondam Salai,Ariyalur – 621704
+04329-223226
+internalauditariyalurinspector@gmail.com
+35
+Tiruvarur
+Thiru.N.Mahendran
+Assistant Director
+Assistant Director,State Government Audit, Door no.60/28, Kumarakoil Street,Tiruvarur – 610 002.
+04366-240340
+internalaudittvr@gmail.com
+36
+Theni
+Thiru.C.Palanivel
+Assistant Director
+Assistant Director,State Government Audit, Door no.3-1-49 , Mullai Nagar,E.B.Office Opposite,Palanichettipatti (Cumbam Road)        Theni- 625 531.
+0454-6264826
+theniinternal2012@gmail.com
+37
+Perambalur
+Thiru.S.Mahendravarman
+Assistant Director
+Assistant Director,State Government Audit, R.D.Os Office , 1st Floor,Perambalur   621 212.
+04328-275888
+iainspectorplr@gmail.com
+38
+Tiruvallur
+Thiru.M.Ramesh babu
+Assistant Director
+Assistant Director,State Government Audit, Plot.No.E.W.S ‘B’type 3648&3649TamilNadu Housing Board,Om Naranaya Saisakthi Illam, First Floor,Kaakalur Outerring Road,(Hotel Ariyas Backside)Tiruvallur – 602 001
+044-27666840
+ins.ia.tvlr@gmail.com
+39
+Chennai
+Thiru.P.Arun Prakash
+Assistant Director
+Assistant Director,Tamil Nadu Text Book and Educational Services Corporation  Audit, E.V.K. Sampath Maaligai, D.P.I. Campus, No.68 College Road,                        Chennai - 600 006
+9655995000
+tntbescaudit@gmail.com
